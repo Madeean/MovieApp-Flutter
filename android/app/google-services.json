@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621060205220",
+    "project_id": "flix-id-course-bf93c",
+    "storage_bucket": "flix-id-course-bf93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621060205220:android:fa51cb0071069f55dc5431",
+        "android_client_info": {
+          "package_name": "com.madeean.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44EbCV7ihRxkASviyLLW3Q0Rytg7Wfjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
